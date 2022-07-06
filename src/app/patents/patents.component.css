@@ -1,0 +1,23 @@
+body{
+    background-color: #25274d;
+}
+
+.col-md-3{
+    background: #25274d;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+
+
+.patent h2{
+    margin-bottom: 10%;
+}
+
+section{
+    padding-top: 100px; 
+}
+
+h3,h4{
+    color: white;
+}
